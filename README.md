@@ -1,10 +1,10 @@
 ![maintained](https://img.shields.io/maintenance/no/2022?style=flat-square)
-![version](https://img.shields.io/github/package-json/v/averwhy/Scouting2022?style=flat-square)
+![version](https://img.shields.io/github/package-json/v/Manchester-Central/Scouting2023?style=flat-square)
 ![react](https://img.shields.io/npm/v/react?color=61dbfb&label=react&style=flat-square)
-![updated](https://img.shields.io/github/last-commit/averwhy/scouting2022?style=flat-square)
-![commits](https://img.shields.io/github/commit-activity/w/averwhy/Scouting2022?color=gree&style=flat-square)
-![stars](https://img.shields.io/github/stars/averwhy/Scouting2022?color=gold&style=flat-square)
-# 2022 Scouting App | FIRST Robotics Team 138
+![updated](https://img.shields.io/github/last-commit/Manchester-Central/Scouting2023?style=flat-square)
+![commits](https://img.shields.io/github/commit-activity/w/Manchester-Central/Scouting2023?color=gree&style=flat-square)
+![stars](https://img.shields.io/github/stars/Manchester-Central/Scouting2023?color=gold&style=flat-square)
+# 2023 Scouting App | FIRST Robotics Team 131
 
 This is our Scouting website for the 2022 game Rapid React.
 
